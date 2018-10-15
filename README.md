@@ -2,6 +2,7 @@
 
 [![Latest Stable Version](https://poser.pugx.org/mirocow/yii2-queue/v/stable)](https://packagist.org/packages/mirocow/yii2-queue) [![Latest Unstable Version](https://poser.pugx.org/mirocow/yii2-queue/v/unstable)](https://packagist.org/packages/mirocow/yii2-queue) [![Total Downloads](https://poser.pugx.org/mirocow/yii2-queue/downloads)](https://packagist.org/packages/mirocow/yii2-queue) [![License](https://poser.pugx.org/mirocow/yii2-queue/license)](https://packagist.org/packages/mirocow/yii2-queue)
 [![Join the chat at https://gitter.im/Mirocow/yii2-queue](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Mirocow/yii2-queue?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMirocow%2Fyii2-queue.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMirocow%2Fyii2-queue?ref=badge_shield)
 
 ```
 ----------------------- YII2-QUEUE -----------------------------
@@ -144,3 +145,6 @@ Process 23383 finished
 Time: 1.34 seconds, Memory: 16.00MB
 ```
 
+# License
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMirocow%2Fyii2-queue.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMirocow%2Fyii2-queue?ref=badge_large)
