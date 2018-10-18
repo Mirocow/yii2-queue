@@ -30,10 +30,10 @@ class MessageModel extends Model
     }
 
     /**
-     * @param string $message
+     * @param mixed $message
      * @return $this
      */
-    public static function loadRawMessage(string $payload = '')
+    public static function loadRawMessage($payload = null)
     {
         if (!empty($payload) && is_string($payload)) {
             $payload = Json::decode($payload);
